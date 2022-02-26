@@ -4,6 +4,8 @@
 
 ## Development
 
+Copy and rename `.env.example` to `.env` and fill it out with your values from upstash.
+
 From your terminal:
 
 ```sh
